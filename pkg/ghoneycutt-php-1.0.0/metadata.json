@@ -1,0 +1,19 @@
+{
+  "version": "1.0.0",
+  "dependencies": [
+
+  ],
+  "name": "ghoneycutt-php",
+  "checksums": {
+    "spec/spec_helper.rb": "ca19ec4f451ebc7fdb035b52eae6e909",
+    "README": "4318c19971c0d498b142834b28d76ca0",
+    "tests/init.pp": "779f99177c50609dacd977a32023d4dd",
+    "spec/spec.opts": "a600ded995d948e393fbe2320ba8e51c",
+    "metadata.json": "d34d0b70aba36510fbc2df4e667479ef",
+    "Modulefile": "66f4b7f6c5548e6a11ee1d7fcffac583",
+    "manifests/init.pp": "1ec7663e8beb72ccdfdf80b9bf2627d2"
+  },
+  "types": [
+
+  ]
+}
